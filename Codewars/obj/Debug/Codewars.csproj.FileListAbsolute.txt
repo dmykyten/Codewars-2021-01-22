@@ -1,0 +1,7 @@
+D:\Projects\Codewars\Codewars\bin\Debug\Codewars.exe.config
+D:\Projects\Codewars\Codewars\bin\Debug\Codewars.exe
+D:\Projects\Codewars\Codewars\bin\Debug\Codewars.pdb
+D:\Projects\Codewars\Codewars\obj\Debug\Codewars.csprojAssemblyReference.cache
+D:\Projects\Codewars\Codewars\obj\Debug\Codewars.csproj.CoreCompileInputs.cache
+D:\Projects\Codewars\Codewars\obj\Debug\Codewars.exe
+D:\Projects\Codewars\Codewars\obj\Debug\Codewars.pdb
