@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Codewars
 {
-    class CountTheDigit             //https://www.codewars.com/kata/566fc12495810954b1000030/train/csharp
+    public class CountTheDigit             //https://www.codewars.com/kata/566fc12495810954b1000030/train/csharp
     {
         public static int NbDig(int n, int d)
         {

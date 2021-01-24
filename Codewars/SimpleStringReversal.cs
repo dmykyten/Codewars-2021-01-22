@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Codewars
 {
-    class SimpleStringReversal
+    public class SimpleStringReversal                  //https://www.codewars.com/kata/5a71939d373c2e634200008e          
     {
         public static String Solve(String s)
         {
